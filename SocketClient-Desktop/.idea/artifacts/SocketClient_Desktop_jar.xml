@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SocketClient-Desktop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SocketClient_Desktop_jar</output-path>
+    <root id="archive" name="SocketClient-Desktop.jar">
+      <element id="module-output" name="SocketClient-Desktop" />
+    </root>
+  </artifact>
+</component>
